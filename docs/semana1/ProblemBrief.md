@@ -49,14 +49,14 @@ Como grupo, tomamos la decisión después de compartir nuestras ideas y analizar
 **Nombre** _Jonathan Agudelo
 
 **Desarrollador Frontend**<br>
-**Usuario GitHub** :galbeiroc<br>
+**Usuario GitHub** : galbeiroc<br>
 **Nombre**: Albeiro Crespo Gutierrez<br>
 
 **Desarrollador Blockchain / Stellar (SDK) y Desarrollador Soroban (contratos inteligentes)**<br>
-**Usuario GitHub** :softven-digital<br>
+**Usuario GitHub** : softven-digital<br>
 **Nombre**: Tito Acosta<br>
 
-**Usuario GitHub** :softven-digital<br>
+**Usuario GitHub** : jsebas2220<br>
 **Nombre**: Johan Jimenez<br>
 
 **QA Automatizado**<br>
