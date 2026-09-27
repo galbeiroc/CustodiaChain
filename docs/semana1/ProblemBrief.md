@@ -46,7 +46,7 @@ Como grupo, tomamos la decisión después de compartir nuestras ideas y analizar
 
 **Líder de proyecto / Product Owner**<br>
 **Usuario GitHub** : jbxmusic<br>
-**Nombre** _Jonathan Agudelo
+**Nombre** Jonathan Agudelo
 
 **Desarrollador Frontend**<br>
 **Usuario GitHub** : galbeiroc<br>
