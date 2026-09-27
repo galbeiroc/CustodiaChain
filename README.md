@@ -1,2 +1,2 @@
-# ProyectoBase
-Plantilla base de BB101. Haz fork para arrancar el proyecto de tu equipo, incluye la estructura semana a semana de cada entregable.
+# CustodiaChain — Cadena de Custodia Verificable de Evidencia Digital
+proceso de custodia de evidencia digital que pasa por varias manos, hoy nadie puede demostrar de forma independiente y verificable que el archivo entregado al final es exactamente el mismo que se recolectó al inicio
