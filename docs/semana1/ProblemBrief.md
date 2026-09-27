@@ -30,13 +30,13 @@ Como grupo, tomamos la decisión después de compartir nuestras ideas y analizar
 
 ---
 
-## Problem Brief
+## Problem Brief del proyecto
 
 ### Encabezado
 
 > Nombre del proyecto y una frase que describa el problema. Extensión: breve.
 
-**Nombre del proyecto: CustodiaChain — Cadena de Custodia Verificable de Evidencia Digital**
+#### Nombre del proyecto: CustodiaChain — Cadena de Custodia Verificable de Evidencia Digital
 
 **Frase del problema:** En un proceso de custodia de evidencia digital que pasa por varias manos, hoy nadie puede demostrar de forma independiente y verificable que el archivo entregado al final es exactamente el mismo que se recolectó al inicio.
 
@@ -44,27 +44,27 @@ Como grupo, tomamos la decisión después de compartir nuestras ideas y analizar
 
 > Integrantes con su usuario de GitHub, rol asumido por cada persona, responsable de las entregas y canal de coordinación interna. Extensión: breve.
 
-**Líder de proyecto / Product Owner**<br>
-**Usuario GitHub** : jbxmusic<br>
-**Nombre** Jonathan Agudelo
+**Líder de proyecto / Product Owner**  
+**Usuario GitHub** : jbxmusic  
+**Nombre** Jonathan Agudelo  
 
-**Desarrollador Frontend**<br>
-**Usuario GitHub** : galbeiroc<br>
-**Nombre**: Albeiro Crespo Gutierrez<br>
+**Desarrollador Frontend**  
+**Usuario GitHub** : galbeiroc  
+**Nombre**: Albeiro Crespo Gutierrez  
 
-**Desarrollador Blockchain / Stellar (SDK) y Desarrollador Soroban (contratos inteligentes)**<br>
-**Usuario GitHub** : softven-digital<br>
-**Nombre**: Tito Acosta<br>
+**Desarrollador Blockchain / Stellar (SDK) y Desarrollador Soroban (contratos inteligentes)**  
+**Usuario GitHub** : softven-digital  
+**Nombre**: Tito Acosta  
 
-**Usuario GitHub** : jsebas2220<br>
-**Nombre**: Johan Jimenez<br>
+**Usuario GitHub** : jsebas2220  
+**Nombre**: Johan Jimenez  
 
-**QA Automatizado**<br>
-Vacante
+**QA Automatizado**  
+Vacante  
 
-**QA Manual Documentación y evidencia**<br>
-**Usuario GitHub**: anadeliaca2-cpu<br>
-**Nombre**: Ana Caicedo
+**QA Manual Documentación y evidencia**  
+**Usuario GitHub**: anadeliaca2-cpu  
+**Nombre**: Ana Caicedo  
 
 ### Problema y evidencia
 
@@ -93,8 +93,7 @@ Recorrido paso a paso (con intermediarios explícitos y obligación normativa ma
 
 **Escena del incidente — origen:** se detecta el hallazgo y se inicia la preservación del entorno antes de tocar la evidencia.
 
-Cadena: perito recolector* → custodio/almacén* → analista forense → fiscalía* → juez, cada traspaso exige firma (*obligación normativa). El custodio concentra casi todos los traspasos, siendo el mayor punto único de fallo si su registro es incompleto.
-
+Cadena: perito recolector → custodio/almacén → analista forense → fiscalía → juez, cada traspaso exige firma. El custodio concentra casi todos los traspasos, siendo el mayor punto único de fallo si su registro es incompleto.
 
 ### Fricciones identificadas
 
@@ -102,7 +101,7 @@ Cadena: perito recolector* → custodio/almacén* → analista forense → fisca
 
 Con base en el flujo que ya vimos, aquí están los puntos concretos de fricción, ubicados en cada paso:
 
-*Paso 2 → 3 (Perito recolector → Custodio/almacén**
+*Paso 2 → 3 Perito recolector → Custodio/almacén**
 
 Las fricciones se concentran en el custodio/almacén (recepción sin validación, registros manuales por acceso, papeleo duplicado con el analista) y en el traspaso a fiscalía (inconsistencias que la defensa impugna). El custodio es el intermediario necesario y a la vez el mayor punto único de fallo.
 
