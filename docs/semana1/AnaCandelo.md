@@ -16,7 +16,7 @@ Los jóvenes de zonas apartadas o vulnerables terminan procesos de formación (c
 
 > Quién tiene el problema y en qué situación lo vive.
 
-óvenes de territorios apartados o vulnerables (zonas rurales, periferias urbanas, comunidades con baja conectividad institucional) que completan procesos de formación — cursos técnicos, talleres comunitarios, certificaciones de habilidades— dictados por ONGs, fundaciones, alcaldías o entidades locales que no siempre están articuladas con sistemas educativos formales.
+Jóvenes de territorios apartados o vulnerables (zonas rurales, periferias urbanas, comunidades con baja conectividad institucional) que completan procesos de formación — cursos técnicos, talleres comunitarios, certificaciones de habilidades— dictados por ONGs, fundaciones, alcaldías o entidades locales que no siempre están articuladas con sistemas educativos formales.
 Viven la situación en el momento de buscar empleo o continuar estudios: presentan certificados en papel o PDF fácilmente falsificables o difíciles de validar, y quien recibe esa credencial (un empleador, una universidad, otro programa social) no tiene forma rápida y confiable de verificar que el joven realmente cursó y aprobó esa formación, ni de saber si la entidad que la emitió es legítima.
 El resultado: el joven pierde la oportunidad no por falta de capacidad, sino porque su historial de formación es invisible o no confiable para quien decide.
 
