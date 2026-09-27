@@ -1,6 +1,6 @@
 # Propuesta individual
 
-**Nombre:** Ana Delia Candelo Ararat
+**Nombre:** Albeiro Crespo Gutierrez
 
 **Usuario de GitHub:** galbeiroc
 

@@ -49,7 +49,8 @@ Como grupo, tomamos la decisión después de compartir nuestras ideas y analizar
 **Nombre** _Jonathan Agudelo
 
 **Desarrollador Frontend**<br>
-Vacante
+**Usuario GitHub** :galbeiroc<br>
+**Nombre**: Albeiro Crespo<br>
 
 **Desarrollador Blockchain / Stellar (SDK) y Desarrollador Soroban (contratos inteligentes)**<br>
 **Usuario GitHub** :softven-digital<br>
