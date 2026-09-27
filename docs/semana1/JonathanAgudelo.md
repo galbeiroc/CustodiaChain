@@ -34,7 +34,7 @@ Los asistentes a conciertos sufren cobros desmedidos por especulación en la rev
 
 Hipótesis Personal: Considero que la tecnología blockchain aporta una solución estructural porque permite eliminar la opacidad y la falta de confianza entre partes que no confían entre sí (compradores primarios, revendedores, fans de segundo mercado y organizadores) al compartir un único registro público, inalterable y trazable.
 
-Criterios de Pertinencia ():
+Criterios de Pertinencia (Sesión 1):
 1. Eliminación de intermediarios especulativos: Un contrato inteligente puede codificar reglas lógicas inmutables, tales como establecer un tope máximo al precio de reventa (ej. no más del 110% del valor nominal) y programar regalías automáticas (ej. 15%) que retornan directamente al artista por cada transferencia en mercado secundario.
 2. Histórico inalterable y trazabilidad: Al registrar la propiedad de cada boleto como un activo digital único en la cadena, se elimina por completo la duplicación o clonación de códigos QR, garantizando la autenticidad del boleto sin depender de un verificador centralizado que concentre la confianza.
 
