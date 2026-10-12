@@ -1,12 +1,12 @@
 # Documentación Semana 3 — Functional Proof (CustodiaChain)
 
-## Front construido
+## Front construido.
 
 El front vive en la carpeta `frontend/` del repositorio y está hecho con Next.js (App Router) y TypeScript. Implementa el flujo principal del MVP definido en el Product Blueprint (`docs/semana2/blueprint.md`, secciones 3 y 4): registrar evidencia, transferir custodia, consultar el historial y verificar la integridad. Las cuatro funciones del alcance del MVP quedan cubiertas por una pantalla cada una, más una pantalla de inicio. Para ejecutarlo, ver el README.
 
 **Importante:** en esta semana los datos son **simulados**. Se guardan en el navegador (localStorage) y no se envían a ningún servidor ni a Stellar. La conexión con la red de pruebas (testnet) y los contratos corresponde a la semana 4.
 
-### Pantallas y su relación con el Blueprint
+### Pantallas y su relación con el Blueprint.
 
 | Pantalla | Ruta | Paso del flujo del Blueprint | Qué hace |
 |---|---|---|---|
